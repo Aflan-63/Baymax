@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="baymax2.FXMLDocumentController">
+   <children>
+      <ImageView fitHeight="900" fitWidth="600" layoutX="0.1" opacity="1" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@main_cover.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="labelBayMax" layoutX="268.0" layoutY="95.0" styleClass="park-label" stylesheets="@StyleSheet.css" text="Hello!" textFill="#999999">
+         <font>
+            <Font size="48.0" />
+         </font>
+      </Label>
+      <Button fx:id="openButton" layoutX="268.0" layoutY="250.0" mnemonicParsing="false" onAction="#openButtonOnAction" styleClass="login-button" stylesheets="@StyleSheet.css" text="Open" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Baymax2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Baymax2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/baymax2/ojdbc14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

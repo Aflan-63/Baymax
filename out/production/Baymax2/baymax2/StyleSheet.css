@@ -1,0 +1,38 @@
+.root{
+    -fx-background-color: #A9A9A9;
+}
+
+.button{
+    -fx-background-color: #bb2323;
+    -fx-text-fill: #919191;
+    -fx-font-weight: bold;
+    -fx-font-size: 8;
+}
+
+.exit-button{
+    -fx-background-color: #bb2323;
+    -fx-text-fill: #919191;
+    -fx-font-weight: bold;
+    -fx-background-radius: 4;
+    -fx-font-size: 16;
+}
+
+.login-button{
+    -fx-background-color: #ff3300;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 16;
+}
+
+.park-label{
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}
+.heading{
+    -fx-font-weight: bold;
+}
+
+.body {
+    background-image: url("hosptal.jpg");
+}

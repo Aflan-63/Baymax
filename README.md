@@ -34,8 +34,9 @@ What things you need to install the software and how to install them
 
 
 Authors
-•	Ifaz Ahmed Aflan
-•	Mezbaur Rahman Uschas
+
+Ifaz Ahmed Aflan
+Mezbaur Rahman Uschas
 
 
 
